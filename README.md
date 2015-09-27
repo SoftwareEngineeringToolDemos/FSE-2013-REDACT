@@ -16,6 +16,4 @@ In this repository, for the REDACTSystem project you will find:
 * :JMeterFile.jmx: File to change the settings for JMeter.
 
 This repository was constructed by [Ira Ramtirth](https://github.com/iraramtirth) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to B. M. Mainul Hossain, Mark Grechanik, Haisheng Wang, Ugo Buy for their help in establishing this repository.
-=======
-Prest an Earlier version of Dione
->>>>>>> origin/master
+
