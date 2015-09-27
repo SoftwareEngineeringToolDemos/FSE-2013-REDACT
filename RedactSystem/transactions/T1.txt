@@ -1,0 +1,2 @@
+UPDATE app.finances SET SSN = SSN WHERE ssn > '985000000'
+SELECT DISTINCT institutionid FROM education WHERE ssn IN (SELECT ssn FROM PARENTS )

@@ -1,0 +1,2 @@
+UPDATE app.hospitalvisits SET SSN = SSN WHERE NUMBEROFVISITS > 2
+SELECT sex, COUNT(sex) AS count FROM app.Person WHERE ssn IN (SELECT ssn FROM app.Employment WHERE workweeksperyear > 48) GROUP BY sex

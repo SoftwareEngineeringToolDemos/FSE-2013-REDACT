@@ -1,0 +1,2 @@
+UPDATE app.person SET SSN = SSN WHERE AGE = 20
+SELECT medicinecode FROM app.hospitalvisits WHERE ssn IN (SELECT ssn FROM app.person WHERE race = 'White') AND ssn IN (SELECT ssn 	FROM app.Employment WHERE industrycode = 33)

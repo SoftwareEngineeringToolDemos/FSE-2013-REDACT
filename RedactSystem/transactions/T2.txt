@@ -1,0 +1,2 @@
+UPDATE app.education SET SSN = SSN where ssn > '9850000000'
+SELECT ssn FROM FINANCES
