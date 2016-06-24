@@ -2,7 +2,7 @@
 
 This repository contains information related to the tool REDACT. This tool was presented in [the paper](http://dl.acm.org/citation.cfm?doid=2491411.2494594) at FSE 2013.
 
-This repository _is not_ the original repository for this tool.
+This repository _is not_ the original repository for this tool. The original project can be found [here](https://www.cs.uic.edu/~drmark/REDACT.htm).
 
 In this repository, for REDACT you will find:
 
